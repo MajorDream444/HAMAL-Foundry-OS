@@ -15,11 +15,10 @@ Canonical truth repository for HAMAL and Foundry OS.
 ## Start here
 
 1. Read [CANONICAL-TRUTH.md](CANONICAL-TRUTH.md).
-2. Read [governance/DECISION-REGISTER.md](governance/DECISION-REGISTER.md).
-3. Check [governance/CAPABILITY-REGISTER.md](governance/CAPABILITY-REGISTER.md) before making product claims.
-4. Apply [sources/SOURCE-POLICY.md](sources/SOURCE-POLICY.md) to research.
-5. For another AI chat, use [CHAT-CONTEXT.md](CHAT-CONTEXT.md).
-6. Codex and coding agents must follow [AGENTS.md](AGENTS.md).
+2. Apply the public status and decision framework in [governance/README.md](governance/README.md).
+3. Apply [sources/SOURCE-POLICY.md](sources/SOURCE-POLICY.md) to research.
+4. For another AI chat, paste [CHAT-CONTEXT.md](CHAT-CONTEXT.md).
+5. Codex and coding agents must follow [AGENTS.md](AGENTS.md).
 
 ## Required labels
 
@@ -36,3 +35,7 @@ This remains a **PROPOSAL** pending customer validation. Mach II, gaming, mobili
 ## Existing files
 
 The original Qatar landscape, Mach II charter, and technical reference guide are research inputs awaiting reconciliation. They are not automatically canonical merely because they are stored here.
+
+## Public/private boundary
+
+This repository is public. Do not commit confidential commercial rights, private ownership terms, security details, personal data, customer information, or internal deployment gates. Keep sensitive registers in an access-controlled system and publish only the minimum canonical statement needed by collaborators and tools.
